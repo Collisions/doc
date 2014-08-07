@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>D71DA695-DA29-40FB-9D04-1AB8EE3E5423</string>
+	<key>IDESourceControlProjectName</key>
+	<string>InterstitialExample</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>0E45DAB8-F026-4795-BC00-B04D0638EB10</key>
+		<string>https://github.com/Collisions/doc.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>admob/InterstitialExample/InterstitialExample.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>0E45DAB8-F026-4795-BC00-B04D0638EB10</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Collisions/doc.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>0E45DAB8-F026-4795-BC00-B04D0638EB10</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>0E45DAB8-F026-4795-BC00-B04D0638EB10</string>
+			<key>IDESourceControlWCCName</key>
+			<string>doc</string>
+		</dict>
+	</array>
+</dict>
+</plist>
